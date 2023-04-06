@@ -14,6 +14,6 @@ Following task were performed to do thorough analysis on ridership:
 9. (For 2019 ONLY) Investigated if there is any relationship between weather conditions (temperature, wind, snow) with the deviations between time of arrival and scheduled bus time.
 10. Investigated if the VEHICLE_NUMBER or OPERATOR_ID have any influence in the deviations between time of arrival and scheduled bus time. Justify your analysis with graphs and documentation.
 
-#Languages and Tools used: Python, Jupyter Notebook
-#Libraries used: pandas, numpy, requests, matplotlib, seaborn
+# Languages and Tools used: Python, Jupyter Notebook
+# Libraries used: pandas, numpy, requests, matplotlib, seaborn
 
